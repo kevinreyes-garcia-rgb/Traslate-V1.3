@@ -20,8 +20,8 @@ Hola he creado un hermoso traductor, nada util la verdad
 <details>
   <summary>Desarrollaodres</summary>
 
-[KG359]()
+Toca la imagen 
 
-[![KG359](https://files.catbox.moe/58cy5z.jpeg)](https://catbox.moe/)
+[![KG359](https://files.catbox.moe/58cy5z.jpeg)](https://github.com/kevinreyes-garcia-rgb)
   
 </details>
