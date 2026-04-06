@@ -17,11 +17,8 @@ Hola he creado un hermoso traductor, nada util la verdad
   
 </details>
 
-<details>
-  <summary>Desarrollaodres</summary>
+Desarrolladores 
 
-Toca la imagen 
-
+KG359
 [![KG359](https://files.catbox.moe/kxzwr8.jpeg)](https://github.com/kevinreyes-garcia-rgb)
   
-</details>
