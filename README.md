@@ -21,6 +21,7 @@ Hola he creado un hermoso traductor, nada util la verdad
   <summary>Desarrollaodres</summary>
 
 [KG359]()
-![imagen cover](https://files.catbox.moe/58cy5z.jpeg)(https://catbox.moe/)
+
+[![KG359](https://files.catbox.moe/58cy5z.jpeg)](https://catbox.moe/)
   
 </details>
