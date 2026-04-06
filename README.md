@@ -22,6 +22,6 @@ Hola he creado un hermoso traductor, nada util la verdad
 
 Toca la imagen 
 
-[![KG359](https://files.catbox.moe/58cy5z.jpeg)](https://github.com/kevinreyes-garcia-rgb)
+[![KG359](https://files.catbox.moe/kxzwr8.jpeg)](https://github.com/kevinreyes-garcia-rgb)
   
 </details>
